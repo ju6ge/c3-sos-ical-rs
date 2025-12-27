@@ -10,4 +10,4 @@ Feel free to use and modify as you see fit
 ``` sh
 cargo run -- --url "https://events.ccc.de/congress/2025/hub/en/event/detail/<name>" --output meetup.ics
 ```
-`
+
